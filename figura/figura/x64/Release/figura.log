@@ -1,0 +1,48 @@
+﻿  figur.cpp
+C:\Users\fill2\source\repos\figura\figura\figur.h(11,12): warning C4570: mcf::figure: не был объявлен явно как абстрактный, однако содержит абстрактные функции
+C:\Users\fill2\source\repos\figura\figura\figur.h(11,12): message : double mcf::figure::S(void): абстрактный
+C:\Users\fill2\source\repos\figura\figura\figur.h(28,18): message : см. объявление "mcf::figure::S"
+C:\Users\fill2\source\repos\figura\figura\figur.h(11,12): message : double mcf::figure::P(void): абстрактный
+C:\Users\fill2\source\repos\figura\figura\figur.h(29,18): message : см. объявление "mcf::figure::P"
+C:\Users\fill2\source\repos\figura\figura\figur.h(11,12): message : int mcf::figure::Get_px(void): абстрактный
+C:\Users\fill2\source\repos\figura\figura\figur.h(32,15): message : см. объявление "mcf::figure::Get_px"
+C:\Users\fill2\source\repos\figura\figura\figur.h(11,12): message : int mcf::figure::Get_ny(void): абстрактный
+C:\Users\fill2\source\repos\figura\figura\figur.h(33,15): message : см. объявление "mcf::figure::Get_ny"
+C:\Users\fill2\source\repos\figura\figura\figur.h(11,12): message : void mcf::figure::Show(void): абстрактный
+C:\Users\fill2\source\repos\figura\figura\figur.h(34,16): message : см. объявление "mcf::figure::Show"
+C:\Users\fill2\source\repos\figura\figura\figur.h(11,12): message : void mcf::figure::Hide(void): абстрактный
+C:\Users\fill2\source\repos\figura\figura\figur.h(35,16): message : см. объявление "mcf::figure::Hide"
+C:\Users\fill2\source\repos\figura\figura\figur.h(11,12): message : bool mcf::figure::clic(int,int): абстрактный
+C:\Users\fill2\source\repos\figura\figura\figur.h(42,16): message : см. объявление "mcf::figure::clic"
+C:\Users\fill2\source\repos\figura\figura\figur.h(11,12): message : void mcf::figure::iz_razmer(int,int): абстрактный
+C:\Users\fill2\source\repos\figura\figura\figur.h(43,16): message : см. объявление "mcf::figure::iz_razmer"
+C:\Users\fill2\source\repos\figura\figura\figur.h(252,12): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\fill2\source\repos\figura\figura\figur.h(255,12): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\fill2\source\repos\figura\figura\figur.h(258,12): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  MyForm.cpp
+C:\Users\fill2\source\repos\figura\figura\figur.h(11,12): warning C4570: mcf::figure: не был объявлен явно как абстрактный, однако содержит абстрактные функции
+C:\Users\fill2\source\repos\figura\figura\figur.h(11,12): message : double mcf::figure::S(void): абстрактный
+C:\Users\fill2\source\repos\figura\figura\figur.h(28,18): message : см. объявление "mcf::figure::S"
+C:\Users\fill2\source\repos\figura\figura\figur.h(11,12): message : double mcf::figure::P(void): абстрактный
+C:\Users\fill2\source\repos\figura\figura\figur.h(29,18): message : см. объявление "mcf::figure::P"
+C:\Users\fill2\source\repos\figura\figura\figur.h(11,12): message : int mcf::figure::Get_px(void): абстрактный
+C:\Users\fill2\source\repos\figura\figura\figur.h(32,15): message : см. объявление "mcf::figure::Get_px"
+C:\Users\fill2\source\repos\figura\figura\figur.h(11,12): message : int mcf::figure::Get_ny(void): абстрактный
+C:\Users\fill2\source\repos\figura\figura\figur.h(33,15): message : см. объявление "mcf::figure::Get_ny"
+C:\Users\fill2\source\repos\figura\figura\figur.h(11,12): message : void mcf::figure::Show(void): абстрактный
+C:\Users\fill2\source\repos\figura\figura\figur.h(34,16): message : см. объявление "mcf::figure::Show"
+C:\Users\fill2\source\repos\figura\figura\figur.h(11,12): message : void mcf::figure::Hide(void): абстрактный
+C:\Users\fill2\source\repos\figura\figura\figur.h(35,16): message : см. объявление "mcf::figure::Hide"
+C:\Users\fill2\source\repos\figura\figura\figur.h(11,12): message : bool mcf::figure::clic(int,int): абстрактный
+C:\Users\fill2\source\repos\figura\figura\figur.h(42,16): message : см. объявление "mcf::figure::clic"
+C:\Users\fill2\source\repos\figura\figura\figur.h(11,12): message : void mcf::figure::iz_razmer(int,int): абстрактный
+C:\Users\fill2\source\repos\figura\figura\figur.h(43,16): message : см. объявление "mcf::figure::iz_razmer"
+C:\Users\fill2\source\repos\figura\figura\figur.h(252,12): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\fill2\source\repos\figura\figura\figur.h(255,12): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\fill2\source\repos\figura\figura\figur.h(258,12): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\fill2\source\repos\figura\figura\MyForm.h(19,22): warning C4677: arr: сигнатура члена, не являющегося частным, содержит частный тип сборки "mcf::figure"
+C:\Users\fill2\source\repos\figura\figura\figur.h(11,12): message : см. объявление "mcf::figure"
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  figur.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  figura.vcxproj -> C:\Users\fill2\source\repos\figura\x64\Release\figura.exe

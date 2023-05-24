@@ -1,0 +1,4 @@
+C:\Users\fill2\source\repos\figura\figura\x64\Release\figura.vcxproj.AssemblyReference.cache
+C:\Users\fill2\source\repos\figura\figura\x64\Release\figura.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\fill2\source\repos\figura\figura\x64\Release\figura.MyForm.resources
+C:\Users\fill2\source\repos\figura\figura\x64\Release\figura.vcxproj.GenerateResource.cache
